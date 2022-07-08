@@ -1,0 +1,45 @@
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Наталья\Documents\личное\Учеба\GreekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Наталья\Documents\личное\Учеба\GeekBrains\004. Си шарп\001. Проекты\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
+D:\repo\C#\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\repo\C#\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\repo\C#\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\repo\C#\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\repo\C#\Lection_1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\repo\C#\Lection_1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
